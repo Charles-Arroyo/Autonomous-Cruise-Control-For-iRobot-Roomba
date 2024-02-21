@@ -2,7 +2,8 @@
  * servo.h
  *
  *  Created on: Oct 31, 2023
- *      Author: jhsoto
+ *      Author: Jesus Soto
+ *      Author: Charles Arroyo
  */
 
 #include <stdbool.h>

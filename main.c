@@ -1,5 +1,7 @@
-
-
+/*
+*      Author: Jesus Soto
+*      Author: Charles Arroyo
+*/
 #include "timer.h"
 #include "lcd.h"
 #include <stdint.h>
@@ -12,6 +14,7 @@
 #include "adc.h"
 #include "ping.h"
 #include "servo.h"
+
 
 // Global variables
 int direction;

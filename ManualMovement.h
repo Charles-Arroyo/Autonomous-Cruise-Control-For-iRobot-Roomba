@@ -2,7 +2,8 @@
  * ManualMovement.h
  *
  *  Created on: Nov 7, 2023
- *      Author: jhsoto
+ *      Author: Jesus Soto
+ *      Author: Charles Arroyo
  */
 
 #ifndef MANUALMOVEMENT_H_

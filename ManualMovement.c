@@ -2,7 +2,8 @@
  * ManualMovement.c
  *
  *  Created on: Nov 7, 2023
- *      Author: jhsoto
+ *      Author: Jesus Soto
+ *      Author: Charles Arroyo
  */
 
 
@@ -10,7 +11,8 @@
  * movement.c
  *
  *  Created on: Sep 5, 2023
- *      Author: jhsoto
+ *      Author: Jesus Soto
+ *      Author: Charles Arroyo
  */
 
 #include "ManualMovement.h"

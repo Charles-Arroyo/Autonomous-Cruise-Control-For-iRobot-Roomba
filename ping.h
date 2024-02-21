@@ -2,7 +2,8 @@
  * part3ping.h
  *
  *  Created on: Oct 26, 2023
- *      Author: jhsoto
+ *      Author: Jesus Soto
+ *      Author: Charles Arroyo
  */
 
 #ifndef PING_H_
